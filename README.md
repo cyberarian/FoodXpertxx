@@ -61,6 +61,5 @@ We encourage contributions to improve XpertChat. Whether you want to suggest new
 License
 -------
 
-This project is licensed under the MIT License. You are free to use, copy, modify, merge, publish, distribute, sublicense, and sell copies of the software, provided that you include the original copyright notice and this permission notice in all copies or substantial portions of the software.
-
+This project is licensed under the GNU General Public License v3.0
 * * * * *
